@@ -1,2 +1,3 @@
 # Kotlin
-studying kotlin
+studying kotlin & algorithms
+
